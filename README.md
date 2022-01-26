@@ -1,2 +1,2 @@
 # Helios-Warning-System
-Final Project for ENGG*4390 Bio-Instrumentation Design
+Code for my project in ENGG*4390 Bio-Instrumentation Design
